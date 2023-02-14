@@ -4,7 +4,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-12 mx-auto">
-        <h1 class="title mb-0">About <span>Us 2023 Mac version 3</span></h1>
+        <h1 class="title mb-0">About <span>Us 2023 Mac version 3 lol</span></h1>
       </div>
     </div> 
   </div>
